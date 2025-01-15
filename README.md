@@ -19,4 +19,4 @@ fulfills both of these goals.
 ## Project Structure
 - `git-detector-bias.ipynb`: Analysis 
 - `data/`: Source data
-- `docs/`: Rendered analysis
+- `docs/`: [Rendered analysis](https://vbashyakarla.github.io/gpt-detector/git-detector-bias.html)
